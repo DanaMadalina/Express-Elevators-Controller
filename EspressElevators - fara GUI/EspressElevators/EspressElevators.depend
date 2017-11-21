@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1465255405 source:e:\faculta\sem ii\algoritmi si structuri de date ii\espresselevators\controler.cpp
+	"Controler.h"
+	"cstdlib"
+
+1465169165 e:\faculta\sem ii\algoritmi si structuri de date ii\espresselevators\controler.h
+	"Elevator.h"
+	"iostream"
+
+1465255388 e:\faculta\sem ii\algoritmi si structuri de date ii\espresselevators\elevator.h
+
+1465256121 source:e:\faculta\sem ii\algoritmi si structuri de date ii\espresselevators\elevator.cpp
+	"Elevator.h"
+	"iostream"
+
+1465175689 source:e:\faculta\sem ii\algoritmi si structuri de date ii\espresselevators\main.cpp
+	<iostream>
+	"Controler.h"
+	"fstream"
+
+1465404805 source:c:\users\danuk\desktop\espresselevators\controler.cpp
+	"Controler.h"
+	"cstdlib"
+
+1465169165 c:\users\danuk\desktop\espresselevators\controler.h
+	"Elevator.h"
+	"iostream"
+
+1465405042 c:\users\danuk\desktop\espresselevators\elevator.h
+
+1465405605 source:c:\users\danuk\desktop\espresselevators\elevator.cpp
+	"Elevator.h"
+	"iostream"
+
+1465405177 source:c:\users\danuk\desktop\espresselevators\main.cpp
+	<iostream>
+	"Controler.h"
+	"fstream"
+
